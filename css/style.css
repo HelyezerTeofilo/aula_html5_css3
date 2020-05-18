@@ -1,0 +1,35 @@
+body{
+    background-color: #D5FEFE;
+    margin-left: 100px;
+}
+
+header{
+    margin-top: 50px;
+}
+
+h1{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 18px;
+}
+
+img{
+    margin-bottom: 30px;
+}
+
+.logo{
+    margin-bottom: -10px;
+    width: 30px;
+}
+
+footer{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
